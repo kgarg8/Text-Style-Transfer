@@ -1,6 +1,9 @@
-## Politeness-Transfer
-
-### Papers
+---
+layout: post
+title:  "Politeness Transfer"
+date:   2019-05-23 21:03:36 +0530
+---
+## Papers
 
 - [A computational approach to politeness with application to social factors](https://www.aclweb.org/anthology/P13-1025.pdf)
 - [Delete, Retrieve, Generate: a Simple Approach to Sentiment and Style Transfer](https://www.aclweb.org/anthology/N18-1169.pdf)
