@@ -11,7 +11,7 @@ baseurl: /texture
 sass:
   sass_dir: _sass
 
-permalink: /index.md/:title/
+permalink: /:title/
 texture:
   title: Krishna Garg
   tagline: PhD Student at University of Illinois at Chicago
@@ -38,4 +38,4 @@ theme: texture
 
 plugins:
 - jekyll-seo-tag
-- jekyll-feed
+# - jekyll-feed
