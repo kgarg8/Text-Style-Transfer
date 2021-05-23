@@ -11,7 +11,7 @@ baseurl: /texture
 sass:
   sass_dir: _sass
 
-permalink: /posts/:title/
+permalink: /index.md/:title/
 texture:
   title: Krishna Garg
   tagline: PhD Student at University of Illinois at Chicago
@@ -22,10 +22,10 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: 
+    # twitter: 
     github:  kgarg8
-    linkedIn: in/
-    rss: rss
+    # linkedIn: in/
+    # rss: rss
  
 
 # If you want to link only specific pages in your header, uncomment
