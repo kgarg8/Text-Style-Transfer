@@ -38,4 +38,5 @@ remote_theme: kgarg8/texture
 
 plugins:
 - jekyll-seo-tag
-# - jekyll-feed
+- jekyll-feed
+- jekyll-remote-theme
