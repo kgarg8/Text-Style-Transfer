@@ -34,7 +34,7 @@ header_pages:
 - index.markdown
 
 # Build settings
-remote_theme: kgarg8/texture
+remote_theme: kgarg8/Text-Style-Transfer
 
 plugins:
 - jekyll-seo-tag
