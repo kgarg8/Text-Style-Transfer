@@ -3,6 +3,8 @@ layout: post
 title:  "Politeness Transfer"
 date:   2021-05-24 21:03:36 +0530
 ---
+### [Politeness Theory](https://en.wikipedia.org/wiki/Politeness_theory#Politeness_strategies)
+
 ![Problem Statement](images/Problem.png)
 
 **Style-conditioned LM**: Predict **p(x \| a)**
@@ -29,6 +31,7 @@ date:   2021-05-24 21:03:36 +0530
 <!-- <a href="https://www.w3schools.com">
 <span style="background-color:red">[PDF]</span>
 </a> -->
+
 
 ### Delete, Retrieve, Generate: a Simple Approach to Sentiment and Style Transfer
 
@@ -180,6 +183,10 @@ The motivation is that sentences from the corpus provide a high quality starting
         ![](images/StyleTransformer.png)
 
     - Multiple-attribute text rewriting
+
+- [Paragraph-level] Contextual Text Style Transfer\
+    - Approached borrowed from (Mikolov and Zweig, 2012; Tang et al., 2016)
+    ![](images/CAST.png)
 
 ### References
 - Ge et al. (2019) Automatic grammatical error correction for sequence-to-sequence text generation
