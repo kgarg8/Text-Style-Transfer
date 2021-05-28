@@ -34,7 +34,7 @@ header_pages:
 - index.md
 
 # Build settings
-remote_theme: samarsault/texture
+remote_theme: thelehhman.com/texture
 
 plugins:
 - jekyll-seo-tag
